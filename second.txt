@@ -1,0 +1,2 @@
+hello
+this file is of local repositry of secondrepo
